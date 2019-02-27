@@ -17,12 +17,6 @@ public class WhiskyRepositoryImpl implements WhiskyRepositoryCustom {
     @Autowired
     EntityManager entityManager;
 
-    /*
-    Todo: get all the whiskies from a particular distillery of a particular age
-    has: name of distillery - String name, age of whisky - int age
-    wants: list of whiskies List<Whisky>
-     */
-
     @Transactional
     public List<Whisky> getAllWhiskiesFromGivenDistilleryOfGivenAge(Long id, int age){
         List<Whisky> results = null;
@@ -41,6 +35,24 @@ public class WhiskyRepositoryImpl implements WhiskyRepositoryCustom {
 
             results = cr.list();
 
+        } catch(HibernateException ex){
+            ex.printStackTrace();
+        }
+        return results;
+    }
+
+    @Transactional
+    public List<Whisky> getAllWhiskiesbyRegion(String region){
+        List<Whisky> results = null;
+
+        Session session = entityManager.unwrap(Session.class);
+
+        try{
+            Criteria cr = session.createCriteria(Whisky.class);
+
+            cr.createAlias("distillery", "distilleryAlias");
+            cr.add(Restrictions.eq("distilleryAlias.region", region));
+            results = cr.list();
         } catch(HibernateException ex){
             ex.printStackTrace();
         }

@@ -2,18 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81d3b567-4ea7-44d6-9f39-b1f5e2ee52e1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/controllers/WhiskyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/controllers/WhiskyController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/repositories/WhiskyRepository/WhiskyRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/repositories/WhiskyRepository/WhiskyRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/repositories/WhiskyRepository/WhiskyRepositoryCustom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/repositories/WhiskyRepository/WhiskyRepositoryCustom.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/repositories/WhiskyRepository/WhiskyRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/repositories/WhiskyRepository/WhiskyRepositoryImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/codeclan/example/WhiskyTracker/WhiskyTrackerApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/codeclan/example/WhiskyTracker/WhiskyTrackerApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/codeclan/example/WhiskyTracker/controllers/WhiskyController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/codeclan/example/WhiskyTracker/controllers/WhiskyController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/codeclan/example/WhiskyTracker/repositories/WhiskyRepository/WhiskyRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/codeclan/example/WhiskyTracker/repositories/WhiskyRepository/WhiskyRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/codeclan/example/WhiskyTracker/repositories/WhiskyRepository/WhiskyRepositoryCustom.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/codeclan/example/WhiskyTracker/repositories/WhiskyRepository/WhiskyRepositoryCustom.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/codeclan/example/WhiskyTracker/repositories/WhiskyRepository/WhiskyRepositoryImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/codeclan/example/WhiskyTracker/repositories/WhiskyRepository/WhiskyRepositoryImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/codeclan/example/WhiskyTracker/WhiskyTrackerApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/codeclan/example/WhiskyTracker/WhiskyTrackerApplicationTests.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,13 +39,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1921" />
+          <entry key="java" value="2401" />
           <entry key="xml" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1921" />
+          <entry key="JAVA" value="2401" />
           <entry key="XML" value="6" />
         </counts>
       </usages-collector>
@@ -63,8 +56,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/repositories/WhiskyRepository/WhiskyRepositoryImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+            <state relative-caret-position="206">
+              <caret line="44" column="61" selection-start-line="44" selection-start-column="11" selection-end-line="44" selection-end-column="61" />
             </state>
           </provider>
         </entry>
@@ -72,8 +65,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/repositories/WhiskyRepository/WhiskyRepositoryCustom.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="150">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -81,8 +74,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/repositories/WhiskyRepository/WhiskyRepository.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="180">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -117,8 +110,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/controllers/WhiskyController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="365">
-              <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+            <state relative-caret-position="525">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
             </state>
           </provider>
         </entry>
@@ -126,8 +119,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/codeclan/example/WhiskyTracker/WhiskyTrackerApplicationTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+            <state relative-caret-position="302">
+              <caret line="46" selection-start-line="46" selection-end-line="46" />
             </state>
           </provider>
         </entry>
@@ -171,8 +164,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/repositories/DistilleryRepository/DistilleryRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/controllers/DistilleryController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/repositories/WhiskyRepository/WhiskyRepositoryImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/repositories/WhiskyRepository/WhiskyRepositoryCustom.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/repositories/WhiskyRepository/WhiskyRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/repositories/WhiskyRepository/WhiskyRepositoryCustom.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/codeclan/example/WhiskyTracker/WhiskyTrackerApplicationTests.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/controllers/WhiskyController.java" />
       </list>
@@ -322,7 +315,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551300060009" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551301727502" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
@@ -367,6 +360,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WhiskyTrackerApplicationTests.canGetWhiskiesByRegion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WhiskyTracker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codeclan.example.WhiskyTracker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.codeclan.example.WhiskyTracker" />
+      <option name="MAIN_CLASS_NAME" value="com.codeclan.example.WhiskyTracker.WhiskyTrackerApplicationTests" />
+      <option name="METHOD_NAME" value="canGetWhiskiesByRegion" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="WhiskyTrackerApplicationTests.canGetWhiskiesByYear" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="WhiskyTracker" />
       <extension name="coverage">
@@ -404,10 +413,12 @@
       <item itemvalue="JUnit.WhiskyTrackerApplicationTests.canGetWhiskiesByYear" />
       <item itemvalue="JUnit.WhiskyTrackerApplicationTests.canGetDistilleriesByRegion" />
       <item itemvalue="JUnit.WhiskyTrackerApplicationTests.canGetWhiskiesFromDistilleryWithGivenAge" />
+      <item itemvalue="JUnit.WhiskyTrackerApplicationTests.canGetWhiskiesByRegion" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.WhiskyTrackerApplication" />
+        <item itemvalue="JUnit.WhiskyTrackerApplicationTests.canGetWhiskiesByRegion" />
         <item itemvalue="JUnit.WhiskyTrackerApplicationTests.canGetWhiskiesFromDistilleryWithGivenAge" />
         <item itemvalue="JUnit.WhiskyTrackerApplicationTests.canGetDistilleriesByRegion" />
         <item itemvalue="JUnit.WhiskyTrackerApplicationTests.canGetWhiskiesByYear" />
@@ -440,41 +451,59 @@
     <history-entry file="WhiskyTrackerApplicationTests_canGetWhiskiesFromDistilleryWithGivenAge - 2019.02.27 at 20h 19m 11s.xml">
       <configuration name="WhiskyTrackerApplicationTests.canGetWhiskiesFromDistilleryWithGivenAge" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="WhiskyTrackerApplicationTests_canGetWhiskiesByRegion - 2019.02.27 at 21h 00m 54s.xml">
+      <configuration name="WhiskyTrackerApplicationTests.canGetWhiskiesByRegion" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WhiskyTrackerApplicationTests_canGetWhiskiesByRegion - 2019.02.27 at 21h 01m 24s.xml">
+      <configuration name="WhiskyTrackerApplicationTests.canGetWhiskiesByRegion" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32891566" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.24964234" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.32891566" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/codeclan/example/WhiskyTracker/WhiskyTrackerApplicationTests.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -519,13 +548,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/components/DataLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="26" column="49" lean-forward="true" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/models/Distillery.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
@@ -533,38 +555,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/repositories/WhiskyRepository/WhiskyRepositoryImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/repositories/WhiskyRepository/WhiskyRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/repositories/WhiskyRepository/WhiskyRepositoryCustom.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/repositories/WhiskyRepository/WhiskyRepository.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/repositories/WhiskyRepository/WhiskyRepositoryImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="206">
+          <caret line="44" column="61" selection-start-line="44" selection-start-column="11" selection-end-line="44" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/components/DataLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="26" column="49" lean-forward="true" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="60" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/codeclan/example/WhiskyTracker/WhiskyTrackerApplicationTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+        <state relative-caret-position="302">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/controllers/WhiskyController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        <state relative-caret-position="525">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
         </state>
       </provider>
     </entry>
