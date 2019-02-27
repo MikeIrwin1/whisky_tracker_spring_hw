@@ -24,7 +24,7 @@ public class WhiskyRepositoryImpl implements WhiskyRepositoryCustom {
      */
 
     @Transactional
-    public List<Whisky> getAllWhiskiesFromGivenDistilleryOfGivenAge(String name, int age){
+    public List<Whisky> getAllWhiskiesFromGivenDistilleryOfGivenAge(Long id, int age){
         List<Whisky> results = null;
         //set up session connecting to db with entity manager
         Session session = entityManager.unwrap(Session.class);
@@ -36,7 +36,7 @@ public class WhiskyRepositoryImpl implements WhiskyRepositoryCustom {
             //create alias to distillery
             cr.createAlias("distillery", "distilleryAlias");
             //add restriction to our criteria
-            cr.add(Restrictions.eq("distilleryAlias.name", name));
+            cr.add(Restrictions.eq("distilleryAlias.id", id));
             cr.add(Restrictions.eq("age", age));
 
             results = cr.list();

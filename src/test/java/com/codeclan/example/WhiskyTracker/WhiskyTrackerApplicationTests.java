@@ -38,7 +38,7 @@ public class WhiskyTrackerApplicationTests {
 
 	@Test
 	public void canGetWhiskiesFromDistilleryWithGivenAge(){
-		List<Whisky> results = whiskyRepository.getAllWhiskiesFromGivenDistilleryOfGivenAge("Glendronach", 15);
+		List<Whisky> results = whiskyRepository.getAllWhiskiesFromGivenDistilleryOfGivenAge(1L, 15);
 	}
 
 }
