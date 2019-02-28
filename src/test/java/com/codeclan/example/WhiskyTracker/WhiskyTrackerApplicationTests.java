@@ -33,7 +33,7 @@ public class WhiskyTrackerApplicationTests {
 
 	@Test
 	public void canGetDistilleriesByRegion(){
-		List<Distillery> results = distilleryRepository.getAllDistilleriesByRegion("Highland");
+		List<Distillery> results = distilleryRepository.getDistilleriesByRegion("Highland");
 	}
 
 	@Test
